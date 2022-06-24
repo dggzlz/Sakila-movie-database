@@ -1,7 +1,7 @@
 # Date Created
 
-This project was created on January 2022
-This README file was created on june 2022
+This project was created on January 2022 and
+this README file was created on june 2022
 
 # Project Title
 
@@ -17,4 +17,4 @@ Study a dvd rental database where 4 questions are answered:
 
 # Databse used
 
-The database used for this project is Sakila movie database. db: dvdrental.tar
+The database used for this project is Sakila movie database. DB: dvdrental.tar
