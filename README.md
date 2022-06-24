@@ -17,5 +17,4 @@ Study a dvd rental database where 4 questions are answered:
 
 # Databse used
 
-The database used for this project is Sakila movie database
-dvdrental.tar
+The database used for this project is Sakila movie database. db: dvdrental.tar
