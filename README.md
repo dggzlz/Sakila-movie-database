@@ -15,6 +15,6 @@ Study a dvd rental database where 4 questions are answered:
 - Question 3: Who were our top 10 customers during 2007 and how much they paid?
 - Question 4: Who was the customer that pay the most difference?
 
-# Databse used
+# Database used
 
 The database used for this project is Sakila movie database. DB: dvdrental.tar
